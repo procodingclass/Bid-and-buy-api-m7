@@ -7,7 +7,7 @@ const router = express.Router();
 const IP = require('ip');
 
 /*
-    Get all Auction items endpoint: http://host/api/auction/getOpenAuction
+    Get all Auction items endpoint: http://host/api/auction/getAllOpenAuction
     method: GET
 */	
 
